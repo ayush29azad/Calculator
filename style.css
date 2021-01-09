@@ -1,0 +1,99 @@
+body
+{
+    padding:0px;
+    margin:0px;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Orbitron', sans-serif;
+background-image: url("https://wallpaper-house.com/data/out/12/wallpaper2you_494143.jpg");
+
+}
+
+
+.container
+{
+    text-align: center;
+    width:400px;
+    align-items: center;
+    margin: auto;
+    margin-top: 90px;
+    background-color:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+padding:10px;
+}
+#screen{
+    width: 90%;
+    height: 45px;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+table{
+    margin: auto;
+
+    background-color:#EAEDEF;
+    padding:10px;
+
+    height: 400px;
+
+}
+
+input{
+    border-radius: 21px;
+    border: 2px solid black;
+    font-size:34px;
+    height: 65px;
+    width: 477px;
+}
+
+button{
+    border-radius: 50%;
+    font-size: 18px;
+
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    outline: 0;
+    cursor: pointer;
+    outline: none;
+    border-width: 0;
+    font-family: 'Orbitron', sans-serif;
+
+
+}
+
+
+h1
+{
+    font-size: 28px;
+}
+
+.one button{
+background-color:#20b2aa;
+
+}
+
+.two button{
+    background-color:#ffa500;
+    
+    }
+    .three button{
+        background-color:#7d93e0;;
+        
+        }
+        
+
+        .four button{
+            background-color:#f08080;
+            
+            }
+            
+            
+    
+            .five button{
+                background-color:#9477af;
+                
+                }
+    
+
+
